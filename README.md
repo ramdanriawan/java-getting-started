@@ -1,6 +1,7 @@
 http://github.com/bensomers/firefox-buildpack
 http://github.com/buitron/geckodriver-buildpack
-
+BUILDPACK_URL http://github.com/bensomers/firefox-buildpack
+DATABASE_URL postgres://zuamvikoayfzqy:4195ea9f831c2872cee6531d525b8a60677e150439cf8917fd0dfad9c2655d0a@ec2-52-23-45-36.compute-1.amazonaws.com:5432/dccfq2af8345n5
 # java-getting-started  sdfsdf
 
 A barebones Java app, which can easily be deployed to Heroku.

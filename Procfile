@@ -1,1 +1,1 @@
-web: java -jar whatsapp.jar
+web: java com.social.Test
