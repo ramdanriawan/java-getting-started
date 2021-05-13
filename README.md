@@ -1,3 +1,6 @@
+http://github.com/bensomers/firefox-buildpack
+http://github.com/buitron/geckodriver-buildpack
+
 # java-getting-started  sdfsdf
 
 A barebones Java app, which can easily be deployed to Heroku.
