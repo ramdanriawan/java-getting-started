@@ -50,6 +50,8 @@ public class Main {
 
     @RequestMapping("/")
     String index() {
+
+        System.out.println("Hello woixxxxxxxxxxx");
         return "index";
     }
 
